@@ -1,3 +1,4 @@
+
   <a href="https://www.github.com/Artitaya1018" target="_blank" rel="noreferrer">
       <img align="right" src="https://img.shields.io/github/followers/Artitaya1018?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" />
     </a>
@@ -8,13 +9,16 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Artitaya1018.visitor-badge&right_color=%23119989" />
   
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&center=true&duration=3200&pause=1000&color=40DE7F&width=650&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Artitaya+Pimsupaporn;WELCOME+YO+MY+GITHUB%F0%9F%91%BB" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&center=true&duration=3200&pause=1000&color=40DE7F&width=650&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Artitaya+Pimsupaporn;WELCOME+TO+MY+GITHUB%F0%9F%91%BB" />
   </h1>
   
-  <h3 align="center">A junior UX-UI from Thailand</h3>
+  <h3 align="center">A passionate in UX-UI </h3>
 
 <br/>
 
+<div align="center">
+  <img width="75%" height="360" src="https://i.pinimg.com/originals/95/0a/89/950a89b198155a6a46c733bcba96403d.gif"  />
+</div>
   <div align="center">
  
    🎓 I’m currently studying on **KMITL**
@@ -47,24 +51,20 @@
 
 <hr/>
 
-### Skills
+<h2 align="center">💖🖥 Languages-Frameworks-Tools 🖥💖</h2>
+
+<br/>
+
+  <div align="center">
+       <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,figma,sketchup,illustrator,aftereffects,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,c,cs,cpp,javascript,typescript,python,java" /><br>
+      <img src="https://skillicons.dev/icons?i=stackoverflow,discord,dotnet,arduino,raspberrypi,git,github,linux,vscode,visualstudio" />
+  </div>
+
+<hr/>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Artitaya1018" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
