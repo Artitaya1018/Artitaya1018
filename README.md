@@ -1,14 +1,50 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artitaya Pimsupaporn
-============================================================================================================================================
+  <a href="https://www.github.com/Artitaya1018" target="_blank" rel="noreferrer">
+      <img align="right" src="https://img.shields.io/github/followers/Artitaya1018?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" />
+    </a>
+    
+<br/>
+<br/>
 
-MIND👻
-------
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Artitaya1018.visitor-badge&right_color=%23119989" />
+  
+  <h1 align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&center=true&duration=3200&pause=1000&color=40DE7F&width=650&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Artitaya+Pimsupaporn;WELCOME+YO+MY+GITHUB%F0%9F%91%BB" />
+  </h1>
+  
+  <h3 align="center">A junior UX-UI from Thailand</h3>
 
-* 🌍  I'm based in BANKKOK
-* ✉️  You can contact me at [64011018@kmitl.ac.th](mailto:64011018@kmitl.ac.th)
+<br/>
 
-<a href="https://www.github.com/Artitaya1018" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Artitaya1018?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+  <div align="center">
+ 
+   🎓 I’m currently studying on **KMITL**
+ 
+   🌍 I'm based in **BANKKOK, THAILAND**
+
+   ⚡ I'm not the best, but **I'm tring my best.**
+ 
+   📞 You can contact me at **[pimmsupa28@gmail.com](mailto:pimmsupa28@gmail.com)**
+
+ </div>
+
+<br/>
+
+  <div align="center"> 
+    <a href="mailto:pedro.sales.muniz@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    </a>
+    <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    </a>
+  </div>
+
+<hr/>
 
 ### Skills
 
