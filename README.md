@@ -39,7 +39,7 @@
     <a href="https://www.facebook.com/nupoy.acc" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
     </a>
-    <a href="[https://salesp07.github.io](https://www.instagram.com/pimmsupa_/)" target="_blank">
+    <a href="https://instagram.com/pimmsupa_?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   </div>
