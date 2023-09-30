@@ -56,9 +56,14 @@
 <br/>
 
   <div align="center">
-       <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,figma,sketchup,illustrator,aftereffects,photoshop" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,c,cs,cpp,javascript,typescript,python,java" /><br>
+    <img  align="left"  width="100" height="100" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif"  />
+       <img src="https://skillicons.dev/icons?i=bootstrap,react,tailwind,figma,sketchup,illustrator,aftereffects,photoshop" />
+    <img  align="right"  width="100" height="100" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif"  />
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,c,cs,cpp,javascript,typescript,python,java" />
+    <br>
       <img src="https://skillicons.dev/icons?i=stackoverflow,discord,dotnet,arduino,raspberrypi,git,github,linux,vscode,visualstudio" />
+    
   </div>
 
 <hr/>
@@ -74,9 +79,21 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h3>💗 My Contributions 💗</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Artitaya1018/Artitaya1018/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
 <hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&color=ffee00&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!📩;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
+<div align="center">
+  <img width="20%" src="https://33.media.tumblr.com/f02aed641beb7a5059d57484c7f80f8c/tumblr_nlmmguXypN1tv87ujo1_400.gif"  />
+</div>
+
+<br/>
