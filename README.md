@@ -93,7 +93,7 @@
 <br/>
 
 <div align="center">
-  <img width="20%" src="https://33.media.tumblr.com/f02aed641beb7a5059d57484c7f80f8c/tumblr_nlmmguXypN1tv87ujo1_400.gif"  />
+  <img width="20%" src="https://66.media.tumblr.com/tumblr_maorhbBFRh1rfjowdo1_500.gif"  />
 </div>
 
 <br/>
