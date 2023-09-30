@@ -6,10 +6,10 @@
 <br/>
 <br/>
 
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Artitaya1018.visitor-badge&right_color=%23119989" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Artitaya1018.visitor-badge&left_color=%231c1917&right_color=%23facc15" />
   
   <h1 align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&center=true&duration=3200&pause=1000&color=40DE7F&width=650&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Artitaya+Pimsupaporn;WELCOME+TO+MY+GITHUB%F0%9F%91%BB" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=42&center=true&duration=3200&pause=1000&color=ffee00&width=650&height=70&lines=Hi+There!!%F0%9F%91%8B;I'm+Artitaya+Pimsupaporn;WELCOME+TO+MY+GITHUB%F0%9F%91%BB" />
   </h1>
   
   <h3 align="center">A passionate in UX-UI </h3>
@@ -62,9 +62,16 @@
   </div>
 
 <hr/>
+<br>
 
+<div align=center>
+  <img width=330 height="175" src="https://streak-stats.demolab.com/?user=Artitaya1018&count_private=true&theme=gruvbox&border_radius=10" alt="streak stats"/>
+  <img width=330 height="175" src="https://github-readme-stats.vercel.app/api?username=Artitaya1018&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width=330 height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=Artitaya1018&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-
+<br/><br/>
+<hr/>
 
 ### Badges
 
